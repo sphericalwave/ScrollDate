@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		AFB3A44A24EDCF90003081A5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFB3A44924EDCF90003081A5 /* AppDelegate.swift */; };
 		AFB3A44C24EDCF90003081A5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFB3A44B24EDCF90003081A5 /* SceneDelegate.swift */; };
-		AFB3A44E24EDCF90003081A5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFB3A44D24EDCF90003081A5 /* ContentView.swift */; };
+		AFB3A44E24EDCF90003081A5 /* TestUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFB3A44D24EDCF90003081A5 /* TestUI.swift */; };
 		AFB3A45024EDCF92003081A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AFB3A44F24EDCF92003081A5 /* Assets.xcassets */; };
 		AFB3A45324EDCF92003081A5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AFB3A45224EDCF92003081A5 /* Preview Assets.xcassets */; };
 		AFB3A45624EDCF92003081A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AFB3A45424EDCF92003081A5 /* LaunchScreen.storyboard */; };
@@ -19,7 +19,7 @@
 		AFB3A44624EDCF90003081A5 /* ScrollDate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollDate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFB3A44924EDCF90003081A5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AFB3A44B24EDCF90003081A5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		AFB3A44D24EDCF90003081A5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		AFB3A44D24EDCF90003081A5 /* TestUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestUI.swift; sourceTree = "<group>"; };
 		AFB3A44F24EDCF92003081A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AFB3A45224EDCF92003081A5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AFB3A45524EDCF92003081A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 			children = (
 				AFB3A44924EDCF90003081A5 /* AppDelegate.swift */,
 				AFB3A44B24EDCF90003081A5 /* SceneDelegate.swift */,
-				AFB3A44D24EDCF90003081A5 /* ContentView.swift */,
+				AFB3A44D24EDCF90003081A5 /* TestUI.swift */,
 				AFB3A44F24EDCF92003081A5 /* Assets.xcassets */,
 				AFB3A45424EDCF92003081A5 /* LaunchScreen.storyboard */,
 				AFB3A45724EDCF92003081A5 /* Info.plist */,
@@ -148,7 +148,7 @@
 			files = (
 				AFB3A44A24EDCF90003081A5 /* AppDelegate.swift in Sources */,
 				AFB3A44C24EDCF90003081A5 /* SceneDelegate.swift in Sources */,
-				AFB3A44E24EDCF90003081A5 /* ContentView.swift in Sources */,
+				AFB3A44E24EDCF90003081A5 /* TestUI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
